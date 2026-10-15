@@ -31,3 +31,7 @@ transcripts/
 
 # The @trailhq/trail package, laid out by scripts/pack-trail.mjs.
 /build/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
